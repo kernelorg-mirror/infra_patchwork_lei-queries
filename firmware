@@ -1,0 +1,4 @@
+   dfn:Documentation/firmware_class/
+OR dfn:drivers/base/firmware_loader/
+OR dfn:rust/kernel/firmware.rs
+OR dfn:include/linux/firmware.h

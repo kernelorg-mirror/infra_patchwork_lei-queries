@@ -1,0 +1,5 @@
+   dfn:fs/proc/proc_sysctl.c
+OR dfn:include/linux/sysctl.h
+OR dfn:kernel/sysctl-test.c
+OR dfn:kernel/sysctl.c
+OR dfn:tools/testing/selftests/sysctl/
