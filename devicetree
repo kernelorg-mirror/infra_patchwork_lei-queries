@@ -1,0 +1,8 @@
+   dfn:Documentation/devicetree/
+OR dfn:drivers/of/
+OR dfn:include/linux/of*
+OR dfn:include/dt-bindings/
+OR dfn:rust/helpers/of.c
+OR dfn:rust/kernel/of.rs
+OR dfn:scripts/dtc/
+OR dfn:tools/testing/selftests/dt/
