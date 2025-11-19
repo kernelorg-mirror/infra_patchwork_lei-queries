@@ -1,0 +1,10 @@
+   dfn:drivers/soc/microchip
+OR dfn:drivers/soc/canaan
+OR dfn:drivers/cache
+OR dfn:drivers/firmware/microchip
+OR dfn:drivers/firmware/riscv
+OR dfn:arch/riscv/boot/dts/anlogic
+OR dfn:arch/riscv/boot/dts/canaan
+OR dfn:arch/riscv/boot/dts/microchip
+OR dfn:arch/riscv/boot/dts/sifive
+OR dfn:arch/riscv/boot/dts/starfive
