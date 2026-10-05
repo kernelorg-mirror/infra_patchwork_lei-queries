@@ -8,3 +8,4 @@ OR dfn:arch/riscv/boot/dts/canaan
 OR dfn:arch/riscv/boot/dts/microchip
 OR dfn:arch/riscv/boot/dts/sifive
 OR dfn:arch/riscv/boot/dts/starfive
+OR dfn:lib/cache_maint.c
